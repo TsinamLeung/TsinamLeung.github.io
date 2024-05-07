@@ -1,5 +1,8 @@
 
-# Academic Pages
+# Introduction
+
+this page is for place my academic profile! My publication would be placed here.
+# Academic Pages Introduction
 
 ![pages-build-deployment](https://github.com/academicpages/academicpages.github.io/actions/workflows/pages/pages-build-deployment/badge.svg)
 
