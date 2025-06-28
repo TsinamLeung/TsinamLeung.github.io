@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Zinan Liang (Tsinam Leung)(梁梓楠) - a fture linguist"
+title                    : "Zinan Liang (Tsinam Leung)(梁梓楠) - a future linguist"
 title_separator          : "-"
 name                     : &name "Zinan Liang/Tsinam Leung"
 description              : &description "MA Linguistics student at NUS | Doing Research on cantonese & Language documentation"
@@ -23,7 +23,7 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Zinan Liang/Tsinam Leung (梁梓楠)"
-  pronouns         : # example: "she/her"  
+  pronouns         : he/him # example: "she/her"  
   bio              : "MA Linguistics @ NUS |   Cantonese researcher"
   location         : "Singapore (starting Aug 2025)"
   employer         : "National University of Singapore"
@@ -32,7 +32,7 @@ author:
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : 
+  googlescholar    : https://scholar.google.com/citations?user=jwCFcS8AAAAJ
   impactstory      : # URL
   orcid            : 
   pubmed           : 

@@ -8,8 +8,10 @@ redirect_from:
 ---
 
 ## Welcome to Zinan Liang's Academic Website
+
 ( Contents adjusted by AI, Claude 4)
-I am an incoming **Master of Arts in Linguistics** student at the **National University of Singapore (NUS)**, starting in August 2025. With a foundation in network engineering and computational linguistics, my goal is to leverage advanced IT techniques to safeguard linguistic diversity, particularly the Cantonese language family, through open-source tools and digital solutions like **Jyutping++**, **TypeDuck**, and large-scale Cantonese corpora.
+
+I am an incoming **Master of Arts in Linguistics** student at the **National University of Singapore (NUS)**, starting in August 2025. With a foundation in network engineering and computational linguistics, my goal is to leverage advanced IT techniques to safeguard linguistic diversity, particularly the Cantonese language family, through open-source tools and digital solutions like **Jyutping++**, **TypeDuck**, and Cantonese text corpora.
 
 ### Contact Information
 - **Personal Email:** liangzinan21@hotmail.com
