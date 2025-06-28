@@ -1,6 +1,6 @@
 ---
 title: "Jyutping++: Enhanced Pan-Cantonese Romanization System"
-excerpt: "An extended romanization system for comprehensive representation of Cantonese dialectal variations.<br/><img src='/images/jyutping-plus-preview.png'>"
+excerpt: "An extended romanization system for comprehensive representation of Cantonese dialectal variations.<br/><img src='https://jyutjam.org/jyutjam_logo_1024.png'>"
 collection: portfolio
 ---
 

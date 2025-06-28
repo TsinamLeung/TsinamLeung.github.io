@@ -1,6 +1,6 @@
 ---
 title: "CanCLID: Cantonese Computational Linguistics Infrastructure"
-excerpt: "Contributing to open-source infrastructure for Cantonese language technology and computational linguistics research.<br/><img src='/images/canclid-preview.png'>"
+excerpt: "Contributing to open-source infrastructure for Cantonese language technology and computational linguistics research.<br/><img src='https://avatars.githubusercontent.com/u/68556084?s=200&v=4'>"
 collection: portfolio
 ---
 

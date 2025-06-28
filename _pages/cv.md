@@ -32,7 +32,7 @@ redirect_from:
 *Member* (2017 – Present) — [jyutjam.org](https://jyutjam.org)
 - Developed the Pan-Cantonese Dictionary (Jyutdict.org) web application
 - Conducted extensive collection and analysis of colloquial Cantonese terms for proto-Yue reconstruction
-- Proposed tone-sandhi notation for Jyutping++
+- Proposed tone-sandhi notation for Jyutping++ (Find out more on (jyutjam.org)[https://jyutjam.org/j++])
 
 ---
 

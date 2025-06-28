@@ -1,6 +1,6 @@
 ---
 title: "TypeDuck: Cantonese IME with Multilingual Dictionary"
-excerpt: "A comprehensive input method editor for Cantonese with advanced dictionary features and multilingual support.<br/><img src='/images/typeduck-preview.png'>"
+excerpt: "A comprehensive input method editor for Cantonese with advanced dictionary features and multilingual support.<br/><img src='https://www.typeduck.hk/_next/image/?url=%2Fimages%2Fbanner01.png&w=1920&q=95'>"
 collection: portfolio
 ---
 
