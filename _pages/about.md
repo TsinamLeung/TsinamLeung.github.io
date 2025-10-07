@@ -31,7 +31,7 @@ My work sits at the intersection of computational linguistics and language prese
 
 I'm actively involved in several initiatives that bridge technology and linguistics:
 
-- **[TypeDuck](https://typeduck.org):** Developer of Cantonese IME with multilingual dictionary capabilities
+- **[TypeDuck](https://typeduck.hk):** Developer of Cantonese IME with multilingual dictionary capabilities
 - **[Jyutping++](https://jyutjam.org):** Enhanced romanization system for Pan-Cantonese varieties
 - **[CanCLID](https://github.com/CanCLID):** Contributor to Cantonese computational linguistics infrastructure
 - **[Lingnaam Jyutjam](https://jyutjam.org):** Member focusing on dialectological research and tool development
