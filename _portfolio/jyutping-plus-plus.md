@@ -1,37 +1,23 @@
 ---
-title: "Jyutping++: Enhanced Pan-Cantonese Romanization System"
-excerpt: "An extended romanization system for comprehensive representation of Cantonese dialectal variations.<br/><img src='https://jyutjam.org/jyutjam_logo_1024.png'>"
+title: "Jyutping++: Romanization for Yue Varieties"
+excerpt: "An extended Jyutping-based romanization proposal for representing phonological contrasts across Yue varieties.<br/><img src='https://jyutjam.org/jyutjam_logo_1024.png'>"
 collection: portfolio
 ---
 
-## Jyutping++: Next-Generation Cantonese Romanization
+## Jyutping++
 
-Jyutping++ represents a significant advancement in Cantonese romanization, extending beyond standard Jyutping to accommodate the rich dialectal diversity within the Cantonese language family.
+Jyutping++ is an extended Jyutping-based romanization proposal for Yue varieties. It aims to preserve compatibility with standard Jyutping while adding symbols and conventions needed for regional Yue phonological contrasts.
 
-### Innovation & Features
+### Contributions and Interests
 
-* **Extended Coverage**: Supports regional Cantonese varieties beyond standard Guangzhou Cantonese
-* **Tone Sandhi Notation**: Novel notation system for representing tone changes in connected speech
-* **Computational Integration**: Designed for seamless integration with language technology applications
-* **Backward Compatibility**: Maintains compatibility with existing Jyutping-based systems
-
-### Technical Contributions
-
-* **Phonological Analysis**: Comprehensive analysis of Pan-Cantonese phonological systems
-* **Notation Design**: Systematic approach to representing dialectal variations
-* **Implementation Strategy**: Practical framework for computational adoption
-* **Community Standards**: Collaborative development with linguistic community input
+- Discussed romanization design for Yue varieties beyond Hong Kong and Guangzhou Cantonese.
+- Worked on tone-sandhi transcription solutions for Jyutping++.
+- Considered how romanization choices affect dictionaries, input methods, corpus annotation, and search.
+- Contributed to community discussions through Lingnaam Jyutjam Association.
 
 ### Research Applications
 
-* **Corpus Linguistics**: Enhanced corpus annotation and search capabilities
-* **Language Documentation**: Improved tools for dialectal documentation projects
-* **Educational Resources**: More accurate representation for language learning materials
-* **Digital Preservation**: Better archival systems for Cantonese language materials
-
-### Community Impact
-
-Jyutping++ has been adopted by various Cantonese language technology projects and serves as a foundation for more inclusive computational linguistics tools.
+Jyutping++ is relevant to dialect documentation, digital dictionary work, language-resource interoperability, and input-method design for Yue varieties.
 
 **Project Status**: Ongoing development (2017 - Present)  
 **Affiliation**: Lingnaam Jyutjam Association  

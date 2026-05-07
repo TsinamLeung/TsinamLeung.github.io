@@ -1,31 +1,24 @@
 ---
 title: "TypeDuck: Cantonese IME with Multilingual Dictionary"
-excerpt: "A comprehensive input method editor for Cantonese with advanced dictionary features and multilingual support.<br/><img src='https://www.typeduck.hk/_next/image/?url=%2Fimages%2Fbanner01.png&w=1920&q=95'>"
+excerpt: "A Cantonese input method and dictionary project involving IME logic, lexical data filtering, and interface development.<br/><img src='https://www.typeduck.hk/_next/image/?url=%2Fimages%2Fbanner01.png&w=1920&q=95'>"
 collection: portfolio
 ---
 
-## TypeDuck: Advanced Cantonese Input Method Editor
+## TypeDuck
 
-TypeDuck is a sophisticated input method editor (IME) designed specifically for Cantonese users, featuring a comprehensive multilingual dictionary and advanced text input capabilities.
+TypeDuck is a Cantonese input method project with multilingual dictionary support. My work focused on the engineering and lexical-resource side of the project: IME algorithm logic, dictionary interface development, and refinement of Cantonese lexical entries for practical input use.
 
-### Key Features
+### Contributions
 
-* **Intelligent Input Algorithm**: Engineered server-side IME algorithm for efficient Cantonese text input
-* **Multilingual Dictionary**: Comprehensive dictionary supporting Cantonese-English-Mandarin translations
-* **User Interface Design**: Intuitive and responsive dictionary interface design
-* **Lexicon Optimization**: Refined Cantonese lexicon with removal of low-frequency vocabulary for improved accuracy
+- Developed IME algorithm logic for Cantonese text input.
+- Designed and implemented dictionary interface components.
+- Refined Cantonese lexical entries and removed low-frequency items where appropriate.
+- Worked with dictionary and N-gram processing for input-method use.
 
-### Technical Implementation
+### Relevance
 
-* **Backend Development**: Server-side algorithm implementation for real-time input processing
-* **Frontend Design**: Clean, user-friendly interface for dictionary and input functions
-* **Data Curation**: Extensive corpus work to optimize vocabulary selection and frequency analysis
-* **Performance Optimization**: Algorithm refinement for fast, accurate character prediction
+This project connects language-resource work with usable language technology: turning lexical data into an input method and dictionary interface that can support Cantonese learners and users.
 
-### Impact & Usage
-
-TypeDuck serves as a crucial tool for Cantonese speakers who need reliable digital text input, bridging the gap between traditional Chinese input methods and the specific needs of Cantonese language users.
-
-**Project Status**: Ongoing development (Sept 2022 - Present)  
+**Project Period**: Sept 2022 - Dec 2024  
 **Supervision**: Dr. Chaak Ming Lau, EduHK  
-**Website**: [typeduck.org](https://typeduck.org)
+**Website**: [typeduck.hk](https://typeduck.hk)

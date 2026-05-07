@@ -9,78 +9,95 @@ redirect_from:
 
 {% include base_path %}
 
-## Work Experience
+[Download my academic CV (DOCX)]({{ base_path }}/files/Zinan_Liang_Academic_CV.docx)
+
+---
+
+## Education
+
+**National University of Singapore** — Singapore  
+*MA by Research in Linguistics* (2025 – Present)
+
+**Chengyi College, Jimei University** — Xiamen, Fujian, China  
+*Bachelor of Engineering in Network Engineering* (2017 – 2021)
+
+---
+
+## Research Interests
+
+- Cantonese and Yue linguistics
+- Language contact and dialectal variation
+- Romanization and transcription for Yue varieties
+- Corpus linguistics and lexical resource development
+- Language technology for under-resourced languages
+
+---
+
+## Publications
+
+<ul>{% for post in site.publications reversed %}
+  {% include archive-single-cv.html %}
+{% endfor %}</ul>
+
+---
+
+## Talks
+
+<ul>{% for post in site.talks reversed %}
+  {% include archive-single-talk-cv.html %}
+{% endfor %}</ul>
+
+---
+
+## Research & Project Experience
 
 **TypeDuck — Cantonese IME with Multilingual Dictionary**  
-*Developer* (Sept 2022 – Present)  
-- Engineered the IME algorithm server
-- Designed the dictionary user interface  
-- Refined Cantonese lexicon and removed low-frequency vocabulary
+*Developer* (Sept 2022 – Dec 2024)  
+- Developed IME algorithm logic and dictionary-related tooling for a Cantonese input method.
+- Designed and implemented dictionary interface components for multilingual lookup.
+- Refined Cantonese lexical entries and filtered low-frequency items for practical input use.
 
 **Chinese Newspaper Corpus System**  
 *Developer* (Oct 2020)  
-- Designed a scalable crawler and extractor for major online Chinese newspapers across Asia
+- Designed a crawler and extraction workflow for mainstream online Chinese newspapers across Asia.
+- Processed scraped text into cleaner structured data for later corpus use.
 
 **Cantonese Computational Linguistics Infrastructure Development Workgroup (CanCLID)**  
-*Contributor* (2020 – Present)
-- Collected and cleaned a large Guangzhou Cantonese corpus
-- Trained Cantonese / Mandarin classifiers
-- Localized Mozilla Common Voice into Cantonese (UI translation, corpus curation, audio recording & validation)
-- Optimized IME algorithms for Cantonese text input
+*Contributor* (2020 – Present)  
+- Collected and cleaned online Guangzhou Cantonese text data.
+- Worked on Cantonese/Mandarin classification using Cantonese and Mandarin corpus data.
+- Supported Mozilla Common Voice Cantonese localization through UI translation, corpus curation, audio recording, and validation.
+- Contributed to Cantonese IME algorithm and language-resource development.
 
 **Lingnaam Jyutjam Association (嶺南粵音)**  
-*Member* (2017 – Present) — [jyutjam.org](https://jyutjam.org)
-- Developed the Pan-Cantonese Dictionary (Jyutdict.org) web application
-- Conducted extensive collection and analysis of colloquial Cantonese terms for proto-Yue reconstruction
-- Proposed tone-sandhi notation for Jyutping++ (Find out more on (jyutjam.org)[https://jyutjam.org/j++])
+*Member* (2017 – Present) — [jyutjam.org](https://jyutjam.org)  
+- Developed web infrastructure for the Pan-Cantonese Dictionary ([Jyutdict.org](https://jyutdict.org)).
+- Collected and analyzed colloquial Cantonese lexical materials for comparative Yue research.
+- Proposed and discussed tone-sandhi transcription solutions for Jyutping++.
 
 ---
 
-## Skills
+## Computational Methods & Data Skills
 
-**Languages:**
+- Corpus collection, scraping, cleaning, parsing, and metadata organization.
+- Python-based text processing with pandas and regular-expression workflows.
+- Lexical data preparation for dictionaries, input methods, and Cantonese language resources.
+- Basic NLP workflows, including language-model-based classification for Cantonese/Mandarin data.
+- Web and database tooling for language-resource projects, including PHP/MySQL-backed dictionary systems.
+- Acoustic analysis with Praat.
+- Git/GitHub workflows for collaborative research and open-source language technology projects.
+
+---
+
+## Languages
+
 - **Native:** Cantonese, Dianbai Hokkien, Mandarin
-- **Fluent:** Taiwan Hokkien, English  
-- **Basic Conversation:** Japanese, Bahasa Melayu / Indonesian
-
-**Technical Skills:**
-- Training language models & machine-learning systems
-- Corpus collection & data processing (Python, pandas)
-- IME development & algorithm optimization  
-- Acoustic analysis with Praat
-- Web scraping and data mining
-- Git version control and collaborative development
+- **Fluent:** Taiwan Hokkien, English
+- **Basic conversation:** Japanese, Bahasa Melayu / Indonesian
 
 ---
 
-## Projects
+## Service and Community Work
 
-- **Open-source Cantonese tools** (e.g., Jyutping++, TypeDuck)
-- **Python tutorials** for scraping and cleaning Chinese-language corpora  
-- **Collaborative insights** from Lingnaam Jyutjam Association projects;CanClID Member
-
-Visit [jyutjam.org](https://jyutjam.org) for project deep-dives and community updates.
-
----
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching (Here should be nothing by now)
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-
+- Lingnaam Jyutjam Association, member and contributor to Cantonese phonetics, phonology, and romanization discussions.
+- CanCLID, contributor to Cantonese computational linguistics infrastructure and open-source language technology work.

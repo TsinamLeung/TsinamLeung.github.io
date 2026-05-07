@@ -5,10 +5,10 @@ type: "Conference Presentation"
 permalink: /talks/2024-11-yue-dialect-conference
 venue: "27th International Conference on Yue Dialect"
 date: 2024-11-01
-location: "The Ohio State Univerisity"
+location: "The Ohio State University"
 ---
 
-Presentation of the study of language contact in Guangxi Area.
+Presentation on language contact between Yuehai and Goulou Yue in Guangxi, focusing on the functional morpheme *man1* in Ngzhau Cantonese.
 
 Ngzhau Cantonese (梧州白話) is a Yuehai (粵海片) dialect island in Guangxi, surrounded by
 Goulou (勾漏片) varieties. Although Ngzhau is lexically and grammatically highly similar to

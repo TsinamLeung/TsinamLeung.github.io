@@ -8,10 +8,10 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Zinan Liang (Tsinam Leung)(梁梓楠) - a future linguist"
+title                    : "Zinan Liang (Tsinam Leung / 梁梓楠) | Linguistics"
 title_separator          : "-"
-name                     : &name "Zinan Liang/Tsinam Leung"
-description              : &description "MA Linguistics student at NUS | Doing Research on cantonese & Language documentation"
+name                     : &name "Zinan Liang / Tsinam Leung / 梁梓楠"
+description              : &description "MA by Research student in Linguistics at NUS | Cantonese and Yue linguistics | Language technology"
 url                      : https://tsinamleung.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "tsinamleung/tsinamleung.github.io"
@@ -22,13 +22,13 @@ repository               : "tsinamleung/tsinamleung.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Zinan Liang/Tsinam Leung (梁梓楠)"
+  name             : "Zinan Liang / Tsinam Leung (梁梓楠)"
   pronouns         : he/him # example: "she/her"  
-  bio              : "MA Linguistics @ NUS |   Cantonese researcher"
-  location         : "Singapore (starting Aug 2025)"
+  bio              : "MA by Research in Linguistics @ NUS | Cantonese and Yue linguistics"
+  location         : "Singapore"
   employer         : "National University of Singapore"
   uri              : # URL
-  email            : "liangzinan21@hotmail.com" 
+  email            : "zinan.liang@u.nus.edu" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
