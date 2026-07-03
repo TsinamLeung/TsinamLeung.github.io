@@ -39,3 +39,100 @@
 @import "vendor/font-awesome/brands";
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
+
+/* ===== Custom restyle: brick-red palette + fonts (colours/type only) ===== */
+:root{
+  --paper:#F4F3EF;
+  --paper-2:#EAE8E2;
+  --ink:#241E1C;
+  --brick:#9E3B2E;
+  --brick-deep:#7C2C22;
+  --accent:#A8703A;
+  --faded:#786B60;
+  --rule:#D8D5CC;
+}
+
+/* Base */
+body{
+  background:var(--paper);
+  color:var(--ink);
+  font-family:"Inter", system-ui, -apple-system, sans-serif;
+}
+
+/* Headings - serif display */
+h1,h2,h3,h4,h5,h6,
+.page__title,.archive__item-title,.page__content h2{
+  font-family:"Spectral", Georgia, serif;
+  color:var(--ink);
+}
+
+/* CJK characters render in a serif TC face wherever they appear */
+:lang(zh),:lang(zh-Hant),.cjk{
+  font-family:"Noto Serif TC","Spectral",serif;
+}
+
+/* Links */
+a,
+.page__content a{
+  color:var(--brick);
+  text-decoration:none;
+}
+a:hover,
+.page__content a:hover{
+  color:var(--brick-deep);
+  text-decoration:underline;
+  text-underline-offset:2px;
+}
+
+/* Masthead / top nav */
+.masthead{
+  background:var(--paper);
+  border-bottom:1px solid var(--rule);
+}
+.masthead__inner-wrap,
+.greedy-nav{
+  background:transparent;
+}
+.site-title{
+  font-family:"Noto Serif TC","Spectral",serif;
+  color:var(--ink);
+}
+.greedy-nav a{
+  color:var(--faded);
+  font-family:"IBM Plex Mono", monospace;
+  font-size:.82em;
+  letter-spacing:.04em;
+  text-transform:uppercase;
+}
+.greedy-nav a:hover{ color:var(--brick); }
+.greedy-nav .visible-links a:before{ background:var(--brick); }
+
+/* Author sidebar */
+.author__name{ font-family:"Spectral",serif; }
+.author__urls a{ color:var(--faded); }
+.author__urls a:hover{ color:var(--brick); }
+
+/* Meta text, captions, breadcrumbs */
+.page__meta,.page__date,.archive__item-excerpt small,
+.breadcrumbs,.page__taxonomy{
+  color:var(--faded);
+  font-family:"IBM Plex Mono", monospace;
+}
+
+/* Code / monospace */
+code,pre,kbd,tt{
+  font-family:"IBM Plex Mono", monospace;
+}
+code{ background:var(--paper-2); color:var(--brick-deep); }
+pre,.highlight{ background:var(--paper-2); }
+
+/* Rules / dividers / buttons */
+hr{ border-color:var(--rule); }
+.btn--primary,.pagination a:hover{
+  background:var(--brick);
+  border-color:var(--brick);
+  color:#fff;
+}
+.btn--primary:hover{ background:var(--brick-deep); border-color:var(--brick-deep); }
+blockquote{ border-left-color:var(--accent); }
+/* ===== end custom restyle ===== */
