@@ -136,3 +136,256 @@ hr{ border-color:var(--rule); }
 .btn--primary:hover{ background:var(--brick-deep); border-color:var(--brick-deep); }
 blockquote{ border-left-color:var(--accent); }
 /* ===== end custom restyle ===== */
+
+/* ===== Mockup A composition pass: quiet single-column academic page ===== */
+html{
+  background:var(--paper);
+  scroll-behavior:smooth;
+}
+
+body{
+  padding:0 24px 7em;
+  font-size:17px;
+  line-height:1.65;
+  -webkit-font-smoothing:antialiased;
+}
+
+.masthead{
+  position:relative;
+  height:auto;
+  border-bottom:0;
+  animation:none;
+}
+
+.masthead__inner-wrap{
+  max-width:760px;
+  margin:0 auto;
+  padding:26px 0 22px;
+  border-bottom:1px solid var(--rule);
+}
+
+.masthead__menu-item--lg{
+  padding-right:2.2em;
+}
+
+.masthead__menu-item--lg a{
+  font-family:"Noto Serif TC","Spectral",serif;
+  font-size:0;
+  font-weight:600;
+  letter-spacing:.04em;
+  text-transform:none;
+}
+
+.masthead__menu-item--lg a:after{
+  content:"梁梓楠";
+  font-size:1.05rem;
+}
+
+.greedy-nav .visible-links{
+  display:flex;
+  align-items:baseline;
+  gap:22px;
+}
+
+.greedy-nav .visible-links li{
+  display:block;
+}
+
+.greedy-nav button{
+  background:transparent;
+}
+
+#main{
+  max-width:760px;
+  margin:0 auto;
+  padding:0;
+  animation:none;
+}
+
+.sidebar{
+  display:none;
+}
+
+.page,
+.archive{
+  float:none;
+  width:100%;
+  padding:0;
+}
+
+.page .page__inner-wrap{
+  float:none;
+  width:100%;
+}
+
+.page__inner-wrap > header{
+  padding:64px 0 36px;
+}
+
+body.home .page__inner-wrap > header:after{
+  content:"Zinan Liang / Tsinam Leung";
+  display:block;
+  margin:16px 0 0 26px;
+  font-family:"Spectral", Georgia, serif;
+  font-size:1.45rem;
+  font-weight:500;
+  line-height:1.25;
+  color:var(--ink);
+}
+
+.page__title{
+  position:relative;
+  margin:0;
+  padding-left:26px;
+  font-family:"Noto Serif TC","Spectral",serif;
+  font-size:clamp(2.2rem, 6vw, 3rem);
+  font-weight:700;
+  line-height:1.02;
+  letter-spacing:.04em;
+}
+
+body.home .page__title{
+  font-size:0;
+}
+
+.page__title:before{
+  content:"";
+  position:absolute;
+  left:0;
+  top:.12em;
+  bottom:.1em;
+  width:3px;
+  background:var(--brick);
+}
+
+body.home .page__title:after{
+  content:"梁梓楠";
+  display:block;
+  font-family:"Noto Serif TC","Spectral",serif;
+  font-size:clamp(2.9rem, 8vw, 3.75rem);
+  font-weight:700;
+  line-height:1.02;
+  letter-spacing:.06em;
+  color:var(--ink);
+}
+
+.page__content{
+  font-size:1rem;
+}
+
+.page__content > h2:first-child{
+  margin-top:0;
+}
+
+.page__content h2{
+  margin:44px 0 22px;
+  padding:44px 0 0;
+  border-top:1px solid var(--rule);
+  border-bottom:0;
+  font-size:.86rem;
+  font-weight:600;
+  letter-spacing:.16em;
+  text-transform:uppercase;
+}
+
+.page__content h3{
+  margin:38px 0 18px;
+  padding-top:30px;
+  border-top:1px solid var(--rule);
+  font-family:"Spectral", Georgia, serif;
+  font-size:.86rem;
+  font-weight:600;
+  letter-spacing:.14em;
+  text-transform:uppercase;
+}
+
+.page__content p{
+  max-width:60ch;
+}
+
+.page__content ul,
+.page__content ol{
+  margin-left:0;
+  padding-left:0;
+  list-style:none;
+}
+
+.page__content li{
+  padding:12px 0;
+  border-bottom:1px dotted var(--rule);
+}
+
+.page__content li:last-child{
+  border-bottom:0;
+}
+
+.page__content strong{
+  font-weight:600;
+}
+
+.page__content em{
+  color:var(--brick-deep);
+}
+
+.page__content a{
+  border-bottom:1px solid var(--rule);
+}
+
+.page__content a:hover{
+  border-color:var(--brick);
+}
+
+.page__meta,
+.page__share,
+.page__related{
+  border-top:1px solid var(--rule);
+}
+
+.page__footer{
+  margin-top:0;
+  background:var(--paper);
+  border-top:1px solid var(--rule);
+}
+
+.page__footer footer{
+  max-width:760px;
+  margin:0 auto;
+  padding:40px 0 60px;
+}
+
+.page__footer,
+.page__footer a{
+  color:var(--faded);
+  font-family:"IBM Plex Mono", monospace;
+  font-size:.72rem;
+  letter-spacing:.04em;
+}
+
+@media (max-width: 640px){
+  body{
+    padding-left:18px;
+    padding-right:18px;
+  }
+
+  .masthead__inner-wrap{
+    padding:22px 0 18px;
+  }
+
+  .greedy-nav .visible-links{
+    gap:14px;
+    flex-wrap:wrap;
+  }
+
+  .greedy-nav a{
+    font-size:.72rem;
+  }
+
+  .page__inner-wrap > header{
+    padding:48px 0 28px;
+  }
+
+  body.home .page__inner-wrap > header:after{
+    font-size:1.22rem;
+  }
+}
+/* ===== end Mockup A composition pass ===== */
