@@ -39,3 +39,36 @@
 @import "vendor/font-awesome/brands";
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
+
+/* ===== Custom typography: academic serif headings + clean UI font ===== */
+body{
+  font-family:"Inter", system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+}
+
+h1,h2,h3,h4,h5,h6,
+.page__title,
+.archive__item-title,
+.author__name{
+  font-family:"Spectral", Georgia, serif;
+}
+
+.site-title,
+.masthead__menu-item--lg a{
+  font-family:"Noto Serif TC","Spectral", Georgia, serif;
+}
+
+:lang(zh),
+:lang(zh-Hant),
+.cjk{
+  font-family:"Noto Serif TC","Spectral", Georgia, serif;
+}
+
+.greedy-nav a,
+.page__meta,
+.page__date,
+.breadcrumbs,
+.page__taxonomy,
+code,pre,kbd,tt{
+  font-family:"IBM Plex Mono", monospace;
+}
+/* ===== end custom typography ===== */
