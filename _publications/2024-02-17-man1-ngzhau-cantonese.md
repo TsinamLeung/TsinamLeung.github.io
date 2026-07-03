@@ -3,10 +3,10 @@ title: "Man1 in Ngzhau Cantonese: A Study of Language Contact between Yuehai and
 collection: publications
 permalink: /publication/2024-02-17-man1-ngzhau-cantonese
 excerpt: 'This paper examines the Man1 particle in Ngzhau Cantonese as a case study of language contact between Yuehai and Goulou Yue dialect groups.'
-date: 2024-01-01
+date: 2024-11-01
 venue: 'Buckeye East Asian Linguistics'
 paperurl: 'https://kb.osu.edu/bitstreams/ea5a94bc-3a98-47f7-a185-c538dab9e56d/download'
-citation: 'Liang, Zinan and Huang, Junxin. (2024). "Man1 in Ngzhau Cantonese: A Study of Language Contact between Yuehai and Goulou Yue." <i>Buckeye East Asian Linguistics</i>. 9, 163-179.'
+citation: 'Liang, Zinan and Huang, Junxin. (2024). "Man1 in Ngzhau Cantonese: A Study of Language Contact between Yuehai and Goulou Yue." <i>Buckeye East Asian Linguistics</i>. 9, 163-179. Presented at the 27th International Conference on Yue Dialect, September 2024.'
 ---
 
 This paper investigates the Man1 particle in Ngzhau Cantonese, analyzing how language contact between different Yue dialect groups (Yuehai and Goulou) influences morphosyntactic features. Through detailed linguistic analysis, the study contributes to our understanding of inter-dialectal contact phenomena within the Cantonese language family.
@@ -32,4 +32,4 @@ language contact within Yue varieties in Guangxi Area.
 
 [Download paper here](https://kb.osu.edu/bitstreams/ea5a94bc-3a98-47f7-a185-c538dab9e56d/download)
 
-**Recommended citation:** Liang, Zinan and Huang, Junxin. (2024). "Man1 in Ngzhau Cantonese: A Study of Language Contact between Yuehai and Goulou Yue." *Buckeye East Asian Linguistics*. 9, 163-179.
+**Recommended citation:** Liang, Zinan and Huang, Junxin. (2024). "Man1 in Ngzhau Cantonese: A Study of Language Contact between Yuehai and Goulou Yue." *Buckeye East Asian Linguistics*. 9, 163-179. Presented at the 27th International Conference on Yue Dialect, September 2024.

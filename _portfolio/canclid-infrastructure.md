@@ -11,19 +11,19 @@ The Cantonese Computational Linguistics Infrastructure Development Workgroup (Ca
 ### Contributions
 
 **Corpus development**
-- Collected and cleaned online Guangzhou Cantonese text data.
+- Collected and curated a high-quality corpus of online text in Guangzhou Cantonese.
 - Organized text data for later language-resource and NLP use.
 
 **Classification and NLP**
-- Worked with Cantonese and Mandarin corpus data for classification workflows.
-- Used language-model-based methods to support Cantonese/Mandarin distinction.
+- Trained a Cantonese language model based on Guangzhou and Hong Kong text corpora.
+- Built a Cantonese/Mandarin classifier from language-model-based classification work.
 
 **Mozilla Common Voice localization**
-- Supported Cantonese UI translation.
-- Helped with text corpus curation, audio recording, and validation.
+- Led Cantonese localization work, including UI translation.
+- Worked on corpus collection/refinement, audio recording, and recording verification.
 
 **Input method resources**
-- Contributed to Cantonese IME algorithm and resource development.
+- Optimized the Cantonese IME algorithm to enhance functionality and prediction accuracy.
 - Worked on data and usability problems around Cantonese text input.
 
 ### Methods
@@ -32,6 +32,6 @@ The Cantonese Computational Linguistics Infrastructure Development Workgroup (Ca
 - Corpus cleaning and filtering.
 - Git/GitHub collaboration for open language-resource work.
 
-**Project Status**: Active contributor (2020 - Present)  
+**Project Status**: Core contributor (2020 - Present)
 **Organization**: Cantonese Computational Linguistics Infrastructure Development Workgroup  
 **Repository**: [github.com/CanCLID](https://github.com/CanCLID)

@@ -9,17 +9,16 @@ redirect_from:
 
 ## About
 
-I am an **MA by Research student in Linguistics at the National University of Singapore (NUS)**. My work focuses on Cantonese and Yue varieties, especially language contact, dialectal variation, romanization, and the digital infrastructure needed for under-resourced Sinitic languages.
+I am an **MA by Research student in Linguistics at the National University of Singapore (NUS)**. My research interests focus on **language contact in Yue and related Sinitic languages**, alongside typological variation in Sinitic varieties and digital linguistic infrastructure for Yue varieties.
 
-My academic interests are grounded in descriptive and historical linguistics, but much of my work also involves computational methods: collecting and cleaning corpus data, organizing lexical resources, building dictionary infrastructure, and developing tools that make Cantonese and Yue data easier to search, type, annotate, and share.
+My academic work is grounded in descriptive and historical linguistics, with computational methods used as research infrastructure: collecting and cleaning corpus data, organizing lexical resources, building dictionary infrastructure, and developing tools that make Yue language data easier to search, type, annotate, and share.
 
 ### Research Interests
 
-- Cantonese and Yue linguistics
-- Language contact and dialectal variation in Guangxi and Guangdong
-- Romanization and transcription for Yue varieties
-- Corpus building and lexical data organization
-- Language technology for under-resourced languages
+- Sinitic linguistics on Yue (Cantonese), focusing on language contact
+- Typological variation in Sinitic varieties
+- Digital linguistic infrastructure for Yue varieties, including corpora and romanization
+- Corpus linguistics, lexical-resource development, and language technology for under-resourced languages
 
 ### Computational Methods
 
@@ -32,10 +31,10 @@ I use technical skills as research infrastructure rather than as a separate rese
 
 ### Selected Projects
 
-- **[TypeDuck](https://typeduck.hk):** Cantonese input method and multilingual dictionary project.
+- **[TypeDuck](https://typeduck.hk):** Cantonese input method and multilingual dictionary project for Cantonese learners, including IME algorithm server and dictionary UI work.
 - **[Jyutping++](https://jyutjam.org):** extended romanization and transcription work for Yue varieties.
-- **[CanCLID](https://github.com/CanCLID):** Cantonese computational linguistics infrastructure.
-- **[Lingnaam Jyutjam](https://jyutjam.org):** community work on Cantonese phonetics, phonology, and lexical resources.
+- **[CanCLID](https://github.com/CanCLID):** corpus, language-model, classifier, IME, and Common Voice infrastructure work.
+- **[Lingnaam Jyutjam](https://jyutjam.org):** Pan-Cantonese Dictionary, Yue classification discussion, Early-Qing Cantonese phonology, and Jyutping++ work.
 
 ### Contact
 

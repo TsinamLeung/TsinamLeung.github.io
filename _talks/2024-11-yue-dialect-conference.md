@@ -4,7 +4,8 @@ collection: talks
 type: "Conference Presentation"
 permalink: /talks/2024-11-yue-dialect-conference
 venue: "27th International Conference on Yue Dialect"
-date: 2024-11-01
+date: 2024-09-01
+display_date: "September 2024"
 location: "The Ohio State University"
 ---
 

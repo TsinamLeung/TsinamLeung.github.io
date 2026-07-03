@@ -11,7 +11,7 @@ Jyutping++ is an extended Jyutping-based romanization proposal for Yue varieties
 ### Contributions and Interests
 
 - Discussed romanization design for Yue varieties beyond Hong Kong and Guangzhou Cantonese.
-- Worked on tone-sandhi transcription solutions for Jyutping++.
+- Introduced and implemented Cantonese tone-sandhi transcription solutions for Jyutping++.
 - Considered how romanization choices affect dictionaries, input methods, corpus annotation, and search.
 - Contributed to community discussions through Lingnaam Jyutjam Association.
 
