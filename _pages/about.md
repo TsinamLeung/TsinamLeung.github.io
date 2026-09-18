@@ -13,6 +13,8 @@ I am an **MA by Research student in Linguistics at the National University of Si
 
 My academic work is grounded in descriptive and historical linguistics, with computational methods used as research infrastructure: collecting and cleaning corpus data, organizing lexical resources, building dictionary infrastructure, and developing tools that make Yue language data easier to search, type, annotate, and share.
 
+I am currently working on **Luichiew in Malaysia**. I welcome enquiries and conversations about this ongoing research.
+
 ### Research Interests
 
 - Sinitic linguistics on Yue (Cantonese), focusing on language contact
@@ -41,3 +43,4 @@ I use technical skills as research infrastructure rather than as a separate rese
 - **NUS Email:** zinan.liang@u.nus.edu
 - **Personal Email:** liangzinan21@hotmail.com
 - **GitHub:** [TsinamLeung](https://github.com/TsinamLeung)
+- **ORCID:** [0009-0003-0226-0412](https://orcid.org/0009-0003-0226-0412)
