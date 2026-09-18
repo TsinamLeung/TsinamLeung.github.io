@@ -25,7 +25,7 @@ redirect_from:
 
 ## Research Interests
 
-- Sinitic linguistics on Yue (Cantonese), focusing on language contact
+- Language contact in southern Sinitic varieties, particularly Hakka, Yue (including Cantonese), and Min in Guangdong and Hainan
 - Typological variation in Sinitic varieties
 - Digital linguistic infrastructure for Yue varieties, including corpora and romanization
 - Corpus linguistics and lexical-resource development

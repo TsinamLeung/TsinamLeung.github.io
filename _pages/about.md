@@ -9,15 +9,15 @@ redirect_from:
 
 ## About
 
-I am an **MA by Research student in Linguistics at the National University of Singapore (NUS)**. My research interests focus on **language contact in Yue and related Sinitic languages**, alongside typological variation in Sinitic varieties and digital linguistic infrastructure for Yue varieties.
+I am an **MA by Research student in Linguistics at the National University of Singapore (NUS)**. My research interests focus on **language contact and typological variation in the Sinitic varieties of far southern China**, particularly **Hakka, Yue (including Cantonese), and Min**, with a geographical focus on **Guangdong and Hainan**. I also develop digital linguistic infrastructure for Yue varieties.
 
 My academic work is grounded in descriptive and historical linguistics, with computational methods used as research infrastructure: collecting and cleaning corpus data, organizing lexical resources, building dictionary infrastructure, and developing tools that make Yue language data easier to search, type, annotate, and share.
 
-I am currently working on **Luichiew in Malaysia**. I welcome enquiries and conversations about this ongoing research.
+I am currently working on **Luichiew (Leizhou Min) in Malaysia**. I welcome enquiries and conversations about this ongoing research.
 
 ### Research Interests
 
-- Sinitic linguistics on Yue (Cantonese), focusing on language contact
+- Language contact in southern Sinitic varieties, particularly Hakka, Yue (including Cantonese), and Min in Guangdong and Hainan
 - Typological variation in Sinitic varieties
 - Digital linguistic infrastructure for Yue varieties, including corpora and romanization
 - Corpus linguistics, lexical-resource development, and language technology for under-resourced languages
