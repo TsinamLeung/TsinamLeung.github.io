@@ -20,14 +20,15 @@ I am currently working on **Luichiew (Leizhou Min) in Malaysia**. I welcome enqu
 - Language contact in southern Sinitic varieties, particularly Hakka, Yue (including Cantonese), and Min in Guangdong and Hainan
 - Typological variation in Sinitic varieties
 - Digital linguistic infrastructure for Yue varieties, including corpora and romanization
-- Corpus linguistics, lexical-resource development, and language technology for under-resourced languages
+- Corpus linguistics, lexical-resource development, and language technology for low-resource languages
 
 ### Computational Methods
 
-I use technical skills as research infrastructure rather than as a separate research identity. My work has involved:
+I use computational methods to support linguistic research and develop tools for low-resource languages. My work has involved:
 
 - collecting, cleaning, and structuring web-based Chinese and Cantonese text data
 - building Python workflows for corpus parsing, filtering, and lexical data preparation
+- applying computational methods to language modeling for low-resource languages, including automatic speech recognition (ASR) and text-to-speech (TTS) models
 - developing dictionary and input-method resources for Cantonese and Pan-Cantonese projects
 - supporting open-source language technology projects with Git-based collaborative workflows
 

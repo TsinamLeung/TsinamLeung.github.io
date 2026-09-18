@@ -29,7 +29,7 @@ redirect_from:
 - Typological variation in Sinitic varieties
 - Digital linguistic infrastructure for Yue varieties, including corpora and romanization
 - Corpus linguistics and lexical-resource development
-- Language technology for under-resourced languages
+- Language technology for low-resource languages
 
 ---
 
@@ -85,6 +85,7 @@ redirect_from:
 
 ## Computational Methods & Data Skills
 
+- **Language modeling:** Applying computational methods to language modeling for low-resource languages, including automatic speech recognition (ASR) and text-to-speech (TTS) models.
 - **Data & NLP workflows:** Corpus collection, web scraping, data cleaning, parsing, metadata organization, and language-model-based classification for Cantonese/Mandarin data.
 - **Programming & tools:** C++, Python, pandas, regular expressions, PHP/MySQL, and Git/GitHub.
 - **Linguistics tools:** Praat for acoustic analysis and lexical data preparation for dictionaries and input methods.
